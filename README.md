@@ -1,5 +1,7 @@
 # Satellite Trajectory Analysis Tool 🛰️
 
+This project implements a Satellite Trajectory Analysis Tool, developed as part of the "Python for Aerospace" course by Angelina Tsuboi.
+
 A graphical user interface (GUI) built with `Tkinter`, `Matplotlib`, and `PyAstronomy` to visualize and analyze satellite trajectories in Earth's orbit. This tool allows users to interactively manipulate orbital parameters, plot satellite paths, and download trajectory data in CSV format.
 
 ## Features
@@ -19,3 +21,6 @@ A graphical user interface (GUI) built with `Tkinter`, `Matplotlib`, and `PyAstr
 * Matplotlib: For 2D and 3D plotting.
 * PyAstronomy: For orbital calculations and propagation models.
 * SGP4: For satellite orbit propagation.
+
+## Acknowledgement
+Thanks to Angelina Tsuboi.

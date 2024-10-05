@@ -13,3 +13,9 @@ A graphical user interface (GUI) built with `Tkinter`, `Matplotlib`, and `PyAstr
 2. **Keplerian Elements**: Adjust key parameters like semi-major axis, eccentricity, inclination, etc.
 3. **Propagation Models**: Simulate satellite trajectories using methods like SGP4 and Kepler's orbit.
 4. **Perturbations**: Model realistic deviations caused by forces such as gravity, atmospheric drag, and solar pressure.
+
+## Libraries Used
+* Tkinter: For building the GUI.
+* Matplotlib: For 2D and 3D plotting.
+* PyAstronomy: For orbital calculations and propagation models.
+* SGP4: For satellite orbit propagation.
